@@ -4,7 +4,7 @@
 - 🌱 I mainly focus on the cosmological simulation and weak gravitational lensing.
 - 💬 My main project is abouth emulating the universe at different cosmological models.
 
-
+![50 Mpc/h cold dark matter density field changes with the cosmology varying. ](./field50Mpc_over_h_arrayplots.png)
 
 
 <!--
