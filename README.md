@@ -6,6 +6,7 @@
 
 ![50 Mpc/h cold dark matter density field changes with the cosmology varying. ](./field50Mpc_over_h_arrayplots.png)
 
+If you are interested in this program, please visit [CSST Emulator pages](https://github.com/czymh/csstemu).
 
 <!--
 **czymh/czymh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
