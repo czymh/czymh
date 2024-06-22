@@ -1,4 +1,4 @@
-![Zhao Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=czymh&show_icons=true&theme=algolia&hide_title=true)
+![Zhao Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=czymh&show_icons=true&theme=algolia&hide_title=false)
 ## Hi there 👋
 - 🔭 I’m currently learning on the cosmology and large scale structure.
 - 🌱 I mainly focus on the cosmological simulation and weak gravitational lensing.
