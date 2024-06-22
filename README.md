@@ -1,5 +1,11 @@
-[![Zhao Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=czymh&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true)]
+![Zhao Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=czymh&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true)
 ## Hi there 👋
+- 🔭 I’m currently learning on the cosmology and large scale structure.
+- 🌱 I mainly focus on the cosmological simulation and weak gravitational lensing.
+- 💬 My main project is abouth emulating the universe at different cosmological models.
+
+
+
 
 <!--
 **czymh/czymh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
