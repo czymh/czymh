@@ -1,8 +1,8 @@
 ![Zhao Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=czymh&show_icons=true&theme=algolia&hide_title=false)
 ## Hi there 👋
-- 🔭 I’m currently learning on the cosmology and large scale structure.
+- 🔭 I’m currently focus on the cosmology and large scale structure.
 - 🌱 I mainly focus on the cosmological simulation and weak gravitational lensing.
-- 💬 My main project is abouth emulating the universe at different cosmological models.
+- 💬 My main project is about emulating the universe at different cosmological models.
 
 ![50 Mpc/h cold dark matter density field changes with the cosmology varying. ](./field50Mpc_over_h_arrayplots.png)
 
